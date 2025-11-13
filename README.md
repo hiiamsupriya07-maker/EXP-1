@@ -60,7 +60,9 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
- 
+ |TABLE|YOU|
+ |---- |---|
+ |SHOW|YOU|
 
 
 b.  KCL:
