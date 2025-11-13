@@ -48,7 +48,9 @@ Calculation:
 a.   KVL:
 
 $$V=V_1+V_2+V_3$$
+
 $$100=IR_1+IR_2+IR_3$$
+
 $$Req=R1+R2+R3$$
 $$Req=180$$
 $$I=V/Req=100/180$$
@@ -60,8 +62,8 @@ $$100V=16.68V+27.8V+55.6V$$
 $$100V=100V$$
 $$Hence Proved$$
 b.  KCL:
-$$I30/Omega=I/50/Omega+I100/Omega$$
-$$I30/Omega=(100-V)/30$$
+$$I30=I/50/Omega+I100/Omega$$
+$I30/Omega=(100-V)/30$
 $$I50/Omega=V/50$$
 $$I00/Omega=V/100$$
 $$(100-v)/30=V/50+V/100$$
