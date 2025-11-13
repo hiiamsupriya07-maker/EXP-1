@@ -93,6 +93,7 @@ a.   KVL:
 
 b.  KCL:
 |KCL|130\Omega|I50\Omega|I100\Omega|VA|
+|----|----|----|-----|----|
 |Theoretical|-1.58A|1.05A|0.53A|52.63A|
 |practical|-1.58A|1.05A|0.53A|52.63A|
 RESULT:
