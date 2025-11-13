@@ -86,16 +86,16 @@ $$Hence Proved$$
 Tabulation:
 
 a.   KVL:
- |KVL|SOURCE(V)|V30/Omega|V50/Omega|V100/Omega|V30/Omega+V50/Omega+V100/Omega(V)|
+ |KVL|SOURCE(V)|$$V30/Omega$$|$$V50/Omega$$|$$V100/Omega$$|$$V30/Omega+V50/Omega+V100/Omega(V)$$|
  |---- |-----|----|----|---|-----|
  |Theoretical|100|16.68|27.8|55.6|100.05|
  |Practical|100|16.68|27.8|55.6|100.08|
 
 b.  KCL:
-|KCL|130\Omega|I50\Omega|I100\Omega|VA|
+|KCL|$$130\Omega$$|$$I50\Omega$$|$$I100\Omega$$|VA|
 |----|----|----|-----|----|
 |Theoretical|-1.58A|1.05A|0.53A|52.63A|
 |practical|-1.58A|1.05A|0.53A|52.63A|
-RESULT:
 
+RESULT:
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
