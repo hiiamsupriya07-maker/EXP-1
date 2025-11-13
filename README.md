@@ -71,9 +71,9 @@ $$100V=100V$$
 
 $$Hence Proved$$
 b.  KCL:
-$$I30&#937=I/50/Omega+I100/Omega$$
-$I30/Omega=(100-V)/30$
-$$I50/Omega=V/50$$
+$$I30\Omega=I/50\Omega+I100\Omega$$
+$I30\Omega=(100-V)/30$
+$$I50\Omega=V/50$$
 $$I00/Omega=V/100$$
 $$(100-v)/30=V/50+V/100$$
 $$V=52.63V$$
@@ -82,6 +82,7 @@ $$I50/Omega=52.63/50=1.05A$$
 $$I100/Omega=52.63/100=0.53A$$
 $$-1.58A+1.05A+0.53A=0A$$
 $$Hence Proved$$
+
 Tabulation:
 
 a.   KVL:
