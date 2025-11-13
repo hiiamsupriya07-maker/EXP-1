@@ -86,7 +86,7 @@ $$Hence Proved$$
 Tabulation:
 
 a.   KVL:
- |KVL|SOURCE(V)|$$V30/Omega$$|$$V50/Omega$$|$$V100/Omega$$|$$V30/Omega+V50/Omega+V100/Omega(V)$$|
+ |KVL|SOURCE(V)|$$V30\Omega$$|$$V50\Omega$$|$$V100\Omega$$|$$V30\Omega+V50\Omega+V100\Omega(V)$$|
  |---- |-----|----|----|---|-----|
  |Theoretical|100|16.68|27.8|55.6|100.05|
  |Practical|100|16.68|27.8|55.6|100.08|
