@@ -59,11 +59,11 @@ $$I=V/Req=100/180$$
 
 $$I=0.556A$$
 
-$$V1=IR1=0.556*30=16.68V$$
+$$V1=IR1=0.556\times30=16.68V$$
 
-$$V2=IR2=0.556*50=27.8V$$
+$$V2=IR2=0.556\times50=27.8V$$
 
-$$V3=IR3=0.556*100=55.6V$$
+$$V3=IR3=0.556\times100=55.6V$$
 
 $$100V=16.68V+27.8V+55.6V$$
 
@@ -75,7 +75,7 @@ $$I30\Omega=I/50\Omega+I100\Omega$$
 $I30\Omega=(100-V)/30$
 $$I50\Omega=V/50$$
 $$I00\Omega=V/100$$
-$$(100-v)/30=V/50+V/100$$
+$$(100-V)/30=V/50+V/100$$
 $$V=52.63V$$
 $$I30\Omega=(100-52.63)/30=1.58A$$
 $$I50\Omega=52.63/50=1.05A$$
@@ -92,9 +92,9 @@ a.   KVL:
  |Practical|100|16.68|27.8|55.6|100.08|
 
 b.  KCL:
-
-
-
+|KCL|130\Omega|I50\Omega|I100\Omega|VA|
+|Theoretical|-1.58A|1.05A|0.53A|52.63A|
+|practical|-1.58A|1.05A|0.53A|52.63A|
 RESULT:
 
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
