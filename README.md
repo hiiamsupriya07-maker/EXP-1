@@ -1,4 +1,4 @@
-EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
+$EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
 b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
@@ -71,8 +71,8 @@ $$100V=100V$$
 
 $$Hence Proved$$
 b.  KCL:
-$$I_{30}\Omega=I_{50}\Omega+I_{100}\Omega$$
-$I_{30}\Omega=(100-V)/30$
+$$I_{30\Omega}=I_{50\Omega}+I_{100}\Omega$$
+$$I_{30}\Omega=(100-V)/30$$
 $$I_{50}\Omega=V/50$$
 $$I_{100}\Omega=V/100$$
 $$(100-V)/30=V/50+V/100$$
