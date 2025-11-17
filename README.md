@@ -51,11 +51,11 @@ $$V=V_1+V_2+V_3$$
 
 $$100=IR_1+IR_2+IR_3$$
 
-$$Req=R1+R2+R3$$
+$$R_eq=R_1+R_2+R_3$$
 
-$$Req=180$$
+$$R_eq=180$$
 
-$$I=V/Req=100/180$$
+$$I=V/R_eq=100/180$$
 
 $$I=0.556A$$
 
@@ -71,28 +71,28 @@ $$100V=100V$$
 
 $$Hence Proved$$
 b.  KCL:
-$$I30\Omega=I/50\Omega+I100\Omega$$
-$I30\Omega=(100-V)/30$
-$$I50\Omega=V/50$$
-$$I00\Omega=V/100$$
+$$I_30\Omega=I_50\Omega+I_100\Omega$$
+$I_30\Omega=(100-V)/30$
+$$I_50\Omega=V/50$$
+$$I_100\Omega=V/100$$
 $$(100-V)/30=V/50+V/100$$
 $$V=52.63V$$
-$$I30\Omega=(100-52.63)/30=1.58A$$
-$$I50\Omega=52.63/50=1.05A$$
-$$I100\Omega=52.63/100=0.53A$$
+$$I_30\Omega=(100-52.63)/30=1.58A$$
+$$I_50\Omega=52.63/50=1.05A$$
+$$I_100\Omega=52.63/100=0.53A$$
 $$-1.58A+1.05A+0.53A=0A$$
 $$Hence Proved$$
 
 Tabulation:
 
 a.   KVL:
- |KVL|SOURCE(V)|$$V30\Omega$$|$$V50\Omega$$|$$V100\Omega$$|$$V30\Omega+V50\Omega+V100\Omega(V)$$|
+ |KVL|SOURCE(V)|$$V_30\Omega$$|$$V_50\Omega$$|$$V_100\Omega$$|$$V_30\Omega+V50\Omega+V_100\Omega(V)$$|
  |---- |-----|----|----|---|-----|
  |Theoretical|100|16.68|27.8|55.6|100.05|
  |Practical|100|16.68|27.8|55.6|100.08|
 
 b.  KCL:
-|KCL|$$130\Omega$$|$$I50\Omega$$|$$I100\Omega$$|VA|
+|KCL|$$I_30\Omega$$|$$I_50\Omega$$|$$I_100\Omega$$|VA|
 |----|----|----|-----|----|
 |Theoretical|-1.58A|1.05A|0.53A|52.63A|
 |practical|-1.58A|1.05A|0.53A|52.63A|
