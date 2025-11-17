@@ -86,13 +86,13 @@ $$Hence Proved$$
 Tabulation:
 
 a.   KVL:
- |KVL|SOURCE(V)|$$V_30\Omega$$|$$V_50\Omega$$|$$V_100\Omega$$|$$V_30\Omega+V50\Omega+V_100\Omega(V)$$|
+ |KVL|SOURCE(V)|$$V_{30\Omega}$$|$$V_{50\Omega}$$|$$V_{100\Omega}$$|$$V_{30\Omega}+V_{50\Omega}+V_{100\Omega}(V)$$|
  |---- |-----|----|----|---|-----|
  |Theoretical|100|16.68|27.8|55.6|100.05|
  |Practical|100|16.68|27.8|55.6|100.08|
 
 b.  KCL:
-|KCL|$$I_30\Omega$$|$$I_50\Omega$$|$$I_100\Omega$$|VA|
+|KCL|$$I_{30\Omega}$$|$$I_{50\Omega}$$|$$I_{100\Omega}$$|VA|
 |----|----|----|-----|----|
 |Theoretical|-1.58A|1.05A|0.53A|52.63A|
 |practical|-1.58A|1.05A|0.53A|52.63A|
